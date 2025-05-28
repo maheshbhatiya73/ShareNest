@@ -31,6 +31,3 @@ ShareNest is a self-hosted file sharing tool that allows users to upload files w
 - bcrypt for secure password hashing
 
 ---
-
-## Folder Structure
-
